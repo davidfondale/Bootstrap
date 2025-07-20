@@ -10,7 +10,7 @@ The page contains samples of a number of Bootstrap components including:
 * The email and password fields include utilities to make them required
 * A styled table with alternating banded lines for improved readability
 * A fluid image component to stretch a martini glass image across the page according to the device screen size
-* A rounded image component
+* A round image component
 * 2 buttons, one of which is visible on all screen sizes and one which disappears altogether on smaller screens
 
 Enjoy this small demonstration of the power of Bootstrap!
